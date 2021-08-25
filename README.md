@@ -14,13 +14,13 @@
 <table width="100%">
 <tr>
 <td align="center">
-<a href="https://brunnerliv.io">
+<a href="https://www.linkedin.com/in/benja-mendez-casariego/">
 <strong>Visit my personal website </strong>
 <br />
 <br />
   
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<img alt="Globe" height="80" src="">
+<img alt="Globe" height="80" src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/Coming_Soon_ani.gif">
 </a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -34,7 +34,7 @@
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-<img height="100" alt="Book" src=""> 
+<img height="100" alt="Book" src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/autograph.gif"> 
 </a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -43,14 +43,14 @@
 </td>
 
 <td align="center">
-<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
+<a href="https://www.youtube.com/watch?v=eYDI8b5Nn5s&ab_channel=lisuga">
 <strong>Listen to cool music</strong>
 <br />
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-<img height="100" alt="Music" src=""> 
+<img height="100" alt="Music" src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/jukeboxani.gif"> 
 </a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -60,6 +60,19 @@
 </tr>
 </table>
 
-<marquee behavior="scroll" direction="left">
-<img src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/bye!.PNG" height="100" alt="smile">
-</marquee>
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/bye!.PNG" />
+<br />
+
+![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
+
+
+<img src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/notepad.gif" alt="Site created with Notepad" height="30" />
+<!-- "margin-right: whatever;" -->
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/ie.jpg" alt="Email" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/email.gif" alt="Microsoft Internet Explorer" />
+</div>
+
