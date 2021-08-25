@@ -1,11 +1,3 @@
----
-name: Guestbook_entry.md
-about: Write something nice into my Guestbook
-title: Entry
-labels: ''
-assignees: ''
-
----
 
 ---
 name: "\U0001F4D6 Guestbook Entry"
