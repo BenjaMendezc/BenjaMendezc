@@ -9,7 +9,7 @@ assignees: ''
 <br />
 
 <div align="center">
-  <img src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/autograph.gif" alt='autograph'/>
+  <img src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/.github/ISSUE_TEMPLATE/autograph.gif" alt='autograph'/>
 </div>
 
 <br />
