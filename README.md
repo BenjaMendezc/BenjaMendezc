@@ -8,9 +8,16 @@
   <br />
   <br />
 
-</div>
+
+<div align="center">
+<img alt="Separator" height="10" src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/separator.gif">
+</div >
 
 
+<br/>
+<br/>
+
+<div align="center">
 <table width="100%">
 <tr>
 <td align="center">
@@ -59,20 +66,47 @@
 </td>
 </tr>
 </table>
+ </div >
+
+<br/>
+
+<div align="center">
+<img alt="Separator" height="10" src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/separator.gif">
+</div >
+
+<br/>
+
+<div align="center"> Email me! </div>
+<div align="center">
+
+<img src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/email.gif" alt="Email" /> <br />
+ 
+![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
+
+</div>
+  
+
+<br/>
+
+<div align="center">
+<img alt="Separator" height="10" src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/separator.gif">
+</div >
+  
+  
+<br/>
+<br/>
 
 <div align="center">
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/bye!.PNG" />
+<img height="50" alt="Thanks for visiting me" src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/bye!.PNG" />
 <br />
-
-![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
-
-
+ 
 <img src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/notepad.gif" alt="Site created with Notepad" height="30" />
-<!-- "margin-right: whatever;" -->
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/ie.jpg" alt="Email" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/email.gif" alt="Microsoft Internet Explorer" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>   
+<img src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/ie.gif" alt="Microsoft Internet Explorer" />
+
+
+
+
 </div>
 
