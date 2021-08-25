@@ -12,7 +12,7 @@
 
 
 <div align="center">
-<img alt="Separator" height="10" src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/separator.gif">
+<img alt="Separator" height="10" style="filter:FlipH" src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/saberseparater.gif">
 </div >
 
 
@@ -73,7 +73,7 @@
 <br/>
 
 <div align="center">
-<img alt="Separator" height="10" src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/separator.gif">
+<img alt="Separator" height="10" src="https:https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/saberseparater.gif">
 </div >
 
 <br/>
@@ -91,7 +91,7 @@
 <br/>
 
 <div align="center">
-<img alt="Separator" height="10" src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/separator.gif">
+<img alt="Separator" height="10" src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/saberseparater.gif">
 </div >
   
   
