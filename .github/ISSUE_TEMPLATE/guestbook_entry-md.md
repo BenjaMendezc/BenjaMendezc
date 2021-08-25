@@ -1,5 +1,5 @@
 ---
-name: Guestbook_entry.md
+name: "\U0001F4D6 Guestbook Entry"
 about: Write something nice into my Guestbook
 title: Entry
 labels: ''
@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ---
-name: "\U0001F4D6 Guestbook Entry"
+name: Guestbook_entry.md
 about: "Write something nice into my Guestbook \U0000270F."
 title: ''
 ---
