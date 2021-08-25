@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/welcome.gif" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/in%20a%20galaxy%20far%20away.gif" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
   <img height="50" alt="My Name is Benja and I like Node.js" src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/my%20name%20is....PNG" />
