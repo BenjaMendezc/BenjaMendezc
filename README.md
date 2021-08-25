@@ -36,7 +36,7 @@
 </td>
   
 <td align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/new?template=Guestbook_entry.md">
+<a href="https://github.com/BenjaMendezc/BenjaMendezc/issues/new?template=guestbook_entry-md.md">
 <strong>Sign my guest book</strong>
 <br />
 
