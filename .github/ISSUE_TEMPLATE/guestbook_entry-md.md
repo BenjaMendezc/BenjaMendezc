@@ -9,7 +9,7 @@ assignees: ''
 <br />
 
 <div align="center">
-  <img height='100' src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/Captura.PNG" alt='autograph'/>
+  <img height='100' src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/Captura.PNG?raw=true" alt='autograph'/>
 </div>
 
 <br />
