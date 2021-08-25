@@ -85,14 +85,6 @@
 <br/>
 
 <div align="center">
-<img alt="Separator" height="10" src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/separator.gif">
-</div >
-  
-  
-<br/>
-<br/>
-
-<div align="center">
 
 <img height="50" alt="Thanks for visiting me" src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/bye!.PNG" />
 <br />
