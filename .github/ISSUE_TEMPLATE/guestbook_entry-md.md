@@ -1,0 +1,34 @@
+---
+name: Guestbook_entry.md
+about: Write something nice into my Guestbook
+title: Entry
+labels: ''
+assignees: ''
+
+---
+
+---
+name: "\U0001F4D6 Guestbook Entry"
+about: "Write something nice into my Guestbook \U0000270F."
+title: ''
+---
+
+<div align="center">
+  <img src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/autograph.gif" alt="Guestbook" />
+  <br />
+</div>
+
+<!-- Let me know you've found me -->
+**I have found your README through:**
+
+- [ ] Awesome Github READMEs
+- [ ] Browsing Twitter
+- [ ] Browsing Github
+- [ ] Other: 
+
+
+**Message:**
+
+<!--
+Write your message here
+-->
