@@ -59,3 +59,7 @@
 </td>
 </tr>
 </table>
+
+<marquee behavior="scroll" direction="left">
+<img src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/bye!.PNG" height="100" alt="smile">
+</marquee>
