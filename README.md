@@ -12,7 +12,7 @@
 
 
 <div align="center">
-<img alt="Separator" height="10" style="filter:FlipH" src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/saberseparater.gif">
+<img alt="Separator" height="10" style="filter:FlipH" src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/separator.gif">
 </div >
 
 
@@ -70,20 +70,14 @@
 </table>
  </div >
 
-<br/>
 
-<div align="center">
-<img alt="Separator" height="10" src="https:https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/saberseparater.gif">
-</div >
-
-<br/>
 
 <div align="center"> Email me! </div>
 <div align="center">
 
 <img src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/email.gif" alt="Email" /> <br />
  
-![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/BenjaMendezc/count.svg)
 
 </div>
   
@@ -91,7 +85,7 @@
 <br/>
 
 <div align="center">
-<img alt="Separator" height="10" src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/saberseparater.gif">
+<img alt="Separator" height="10" src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/separator.gif">
 </div >
   
   
