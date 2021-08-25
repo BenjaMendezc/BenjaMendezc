@@ -1,22 +1,19 @@
 ---
 name: "\U0001F4D6 Guestbook Entry"
-about: Write something nice into my Guestbook
+about: "Write something nice into my Guestbook \U0000270F."
 title: Entry
 labels: ''
 assignees: ''
 
 ---
-
----
-name: Guestbook_entry.md
-about: "Write something nice into my Guestbook \U0000270F."
-title: ''
----
+<br />
 
 <div align="center">
   <img src="https://github.com/BenjaMendezc/BenjaMendezc/blob/main/Imgs/autograph.gif" alt="Guestbook" />
   <br />
 </div>
+
+<br />
 
 <!-- Let me know you've found me -->
 **I have found your README through:**
