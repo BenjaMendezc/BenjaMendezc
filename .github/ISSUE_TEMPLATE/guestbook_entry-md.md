@@ -15,14 +15,6 @@ assignees: ''
 
 <br />
 
-<!-- Let me know you've found me -->
-**I have found your README through:**
-
-- [ ] Awesome Github READMEs
-- [ ] Browsing Twitter
-- [ ] Browsing Github
-- [ ] Other: 
-
 
 **Message:**
 
